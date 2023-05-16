@@ -1,0 +1,37 @@
+INICIO
+    1. Abrir os olhos;
+
+    2. Levantar da cama;
+
+    3. Dar 10 passos até a porta;
+
+    4. Se a porta estiver fechada;
+    	1. Colocar a mão na maçaneta;
+	    2. Girar 180 graus;
+	    3. Puxar a porta;
+	    4. Sair do quarto;
+    
+    5. Se a porta estiver aberta;
+    	1. Sair do quarto;
+
+    6. Dar 10 passos até o banheiro;
+
+    7. Entrar no banheiro;
+
+    8. Pegar a escova de dente;
+
+    9. Pegar a pasta de dente;
+
+    10. Colocar a pasta de dente na escova;
+
+    11. Escovar os dentes;
+
+    12. Se for dia de semana;
+         1. Trocar de roupa;
+	     2. Ir Trabalhar;
+
+    13. Se for final de semana;
+    	1. Dar 5 passos até a sala;
+	    2. Pegar controle remoto;
+	    3. Assistir Televisão;
+    FIM
