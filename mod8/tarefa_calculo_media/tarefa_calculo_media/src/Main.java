@@ -12,14 +12,17 @@ public class Main {
 
         System.out.println("A média do aluno é: " + media);
 
-        if (media >= 5 && media <= 10){
+        if (media >= 7 && media <= 10){
             System.out.println("O aluno está aprovado");
         }
-        else if (media > 10){
-            System.out.println("Nota inválida");
+        else if (media >= 5 && media < 7){
+            System.out.println("O aluno está de recuperação");
+        }
+        else if (media >= 0 && media < 5){
+            System.out.println("O aluno está reprovado");
         }
         else {
-            System.out.println("O aluno está reprovado");
+            System.out.println("Nota inválida, a nota precisa estar entre 0 e 10");
         }
     }
 }
